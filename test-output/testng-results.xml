@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="51" passed="51" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T06:30:42Z" name="Default suite" finished-at="2024-04-02T06:30:43Z" duration-ms="327">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T06:30:42Z" name="Default test" finished-at="2024-04-02T06:30:43Z" duration-ms="327">
+      <class name="com.logical.AllJavaPrograms">
+        <test-method signature="reversethegivenString()[pri:1, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="reversethegivenString" finished-at="2024-04-02T06:30:42Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reversethegivenString -->
+        <test-method signature="reversethegivenString2()[pri:2, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="reversethegivenString2" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reversethegivenString2 -->
+        <test-method signature="swappingTheGivenString()[pri:3, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="swappingTheGivenString" finished-at="2024-04-02T06:30:42Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swappingTheGivenString -->
+        <test-method signature="reverseEachWord()[pri:4, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="reverseEachWord" finished-at="2024-04-02T06:30:42Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseEachWord -->
+        <test-method signature="getTheSpecificCharacterAndRepeatedTimes()[pri:5, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="getTheSpecificCharacterAndRepeatedTimes" finished-at="2024-04-02T06:30:42Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheSpecificCharacterAndRepeatedTimes -->
+        <test-method signature="reverseTheGivenNumber()[pri:6, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="reverseTheGivenNumber" finished-at="2024-04-02T06:30:42Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseTheGivenNumber -->
+        <test-method signature="checkGivenStringIsPalindrom()[pri:7, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="checkGivenStringIsPalindrom" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGivenStringIsPalindrom -->
+        <test-method signature="swapTwostringWithout3rdString()[pri:8, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="swapTwostringWithout3rdString" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swapTwostringWithout3rdString -->
+        <test-method signature="swapTwostringWith3rdString()[pri:9, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="swapTwostringWith3rdString" finished-at="2024-04-02T06:30:42Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swapTwostringWith3rdString -->
+        <test-method signature="getTheSpecificCharacter()[pri:10, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="getTheSpecificCharacter" finished-at="2024-04-02T06:30:42Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheSpecificCharacter -->
+        <test-method signature="removeMidleSpaceinString()[pri:11, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeMidleSpaceinString" finished-at="2024-04-02T06:30:42Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeMidleSpaceinString -->
+        <test-method signature="removeNullValuesinMap()[pri:12, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeNullValuesinMap" finished-at="2024-04-02T06:30:42Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeNullValuesinMap -->
+        <test-method signature="removeAllExceptAlphabetsinString()[pri:13, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeAllExceptAlphabetsinString" finished-at="2024-04-02T06:30:42Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeAllExceptAlphabetsinString -->
+        <test-method signature="removeAllExceptNumericsinString()[pri:14, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeAllExceptNumericsinString" finished-at="2024-04-02T06:30:42Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeAllExceptNumericsinString -->
+        <test-method signature="removeSingleCharacterFromString()[pri:15, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeSingleCharacterFromString" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeSingleCharacterFromString -->
+        <test-method signature="remove1standLastCharacter()[pri:16, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="remove1standLastCharacter" finished-at="2024-04-02T06:30:42Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove1standLastCharacter -->
+        <test-method signature="remove1stand5thCharacter()[pri:17, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="remove1stand5thCharacter" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove1stand5thCharacter -->
+        <test-method signature="removeSpacesandRemove1standlastCharacter()[pri:18, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="removeSpacesandRemove1standlastCharacter" finished-at="2024-04-02T06:30:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeSpacesandRemove1standlastCharacter -->
+        <test-method signature="getASingleCharacterinString()[pri:19, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="getASingleCharacterinString" finished-at="2024-04-02T06:30:42Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getASingleCharacterinString -->
+        <test-method signature="getTheDuplicateCharacters()[pri:20, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:42Z" name="getTheDuplicateCharacters" finished-at="2024-04-02T06:30:42Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheDuplicateCharacters -->
+        <test-method signature="removeDuplicatesInString()[pri:21, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="removeDuplicatesInString" finished-at="2024-04-02T06:30:43Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDuplicatesInString -->
+        <test-method signature="getMaximumRepetedCharInString()[pri:22, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="getMaximumRepetedCharInString" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMaximumRepetedCharInString -->
+        <test-method signature="getMinimumRepetedCharInString()[pri:23, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="getMinimumRepetedCharInString" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMinimumRepetedCharInString -->
+        <test-method signature="getVowelsFromTheString()[pri:24, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="getVowelsFromTheString" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVowelsFromTheString -->
+        <test-method signature="findtheOccurancecountsofindividualcharacter()[pri:25, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findtheOccurancecountsofindividualcharacter" finished-at="2024-04-02T06:30:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findtheOccurancecountsofindividualcharacter -->
+        <test-method signature="findtheOccurancecountsofCasesInString()[pri:26, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findtheOccurancecountsofCasesInString" finished-at="2024-04-02T06:30:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findtheOccurancecountsofCasesInString -->
+        <test-method signature="convertListToArray()[pri:27, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="convertListToArray" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertListToArray -->
+        <test-method signature="removeDuplicatesFromArray()[pri:28, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="removeDuplicatesFromArray" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDuplicatesFromArray -->
+        <test-method signature="removeSpecificValueFromArray()[pri:29, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="removeSpecificValueFromArray" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeSpecificValueFromArray -->
+        <test-method signature="removeSpecificIndexValueFromArray()[pri:30, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="removeSpecificIndexValueFromArray" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeSpecificIndexValueFromArray -->
+        <test-method signature="findMaximumAndMinimumNumber()[pri:31, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findMaximumAndMinimumNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findMaximumAndMinimumNumber -->
+        <test-method signature="findMaximumNumber()[pri:32, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findMaximumNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findMaximumNumber -->
+        <test-method signature="find2ndMaximumNumber()[pri:33, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="find2ndMaximumNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find2ndMaximumNumber -->
+        <test-method signature="findMinimumNumber()[pri:34, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findMinimumNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findMinimumNumber -->
+        <test-method signature="find2ndMinimumNumber()[pri:35, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="find2ndMinimumNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find2ndMinimumNumber -->
+        <test-method signature="findOddEvenNumbers()[pri:36, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findOddEvenNumbers" finished-at="2024-04-02T06:30:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findOddEvenNumbers -->
+        <test-method signature="findOddEvenNumbersfrom1to10()[pri:37, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findOddEvenNumbersfrom1to10" finished-at="2024-04-02T06:30:43Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findOddEvenNumbersfrom1to10 -->
+        <test-method signature="findOddEvenNumbersAndItsCount()[pri:38, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findOddEvenNumbersAndItsCount" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findOddEvenNumbersAndItsCount -->
+        <test-method signature="sumofOddEvenNumbers()[pri:39, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="sumofOddEvenNumbers" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumofOddEvenNumbers -->
+        <test-method signature="swappingOf2Numberswith3rdvariable()[pri:40, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="swappingOf2Numberswith3rdvariable" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swappingOf2Numberswith3rdvariable -->
+        <test-method signature="swappingOf2Numberswithout3rdvariable()[pri:41, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="swappingOf2Numberswithout3rdvariable" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swappingOf2Numberswithout3rdvariable -->
+        <test-method signature="factorialNUmber()[pri:42, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="factorialNUmber" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- factorialNUmber -->
+        <test-method signature="findFibonacciSeriesUpto5()[pri:43, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findFibonacciSeriesUpto5" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFibonacciSeriesUpto5 -->
+        <test-method signature="reverseTheGivenNumber1()[pri:44, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="reverseTheGivenNumber1" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseTheGivenNumber1 -->
+        <test-method signature="sumOfGivenNumber()[pri:45, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="sumOfGivenNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumOfGivenNumber -->
+        <test-method signature="productOfGivenNumber()[pri:46, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="productOfGivenNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOfGivenNumber -->
+        <test-method signature="findTheDigitsofGivenNumber()[pri:47, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findTheDigitsofGivenNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findTheDigitsofGivenNumber -->
+        <test-method signature="NumberBetween1to50()[pri:48, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="NumberBetween1to50" finished-at="2024-04-02T06:30:43Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberBetween1to50 -->
+        <test-method signature="findPalindromeNumber()[pri:49, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="findPalindromeNumber" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPalindromeNumber -->
+        <test-method signature="checkGivenNumberisAmstrongNumberorNot()[pri:50, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="checkGivenNumberisAmstrongNumberorNot" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGivenNumberisAmstrongNumberorNot -->
+        <test-method signature="sortGivenInteger()[pri:51, instance:com.logical.AllJavaPrograms@1339e7aa]" started-at="2024-04-02T06:30:43Z" name="sortGivenInteger" finished-at="2024-04-02T06:30:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortGivenInteger -->
+      </class> <!-- com.logical.AllJavaPrograms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
